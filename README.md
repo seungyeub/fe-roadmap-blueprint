@@ -3,7 +3,7 @@
 > 프론트엔드 학습을 위한 **커리큘럼·설계·레퍼런스** 저장소입니다.  
 > 진행/로그는 `fe-roadmap-progress`, 실습·예제는 `fe-roadmap-lab`에서 관리합니다.
 
-🕒 **마지막 갱신:** 2025-10-19
+🕒 **마지막 갱신:** 2025-10-24
 
 ---
 
@@ -48,3 +48,11 @@ fe-roadmap-blueprint/
 │   └── pull_request_template.md
 ├── LICENSE
 └── README.md
+```
+---
+
+## ✍️ Contribution
+
+- 문서 파일은 kebab_case.md를 사용합니다.
+- 내부 링크는 상대 경로로 작성합니다. (예: ../02_JavaScript/closure.md)
+- 큰 구조 변경 시, PR에 섹션 간 링크 영향을 체크리스트로 포함해주세요.
