@@ -3,7 +3,7 @@
 > 프론트엔드 학습을 위한 **커리큘럼·설계·레퍼런스** 저장소입니다.  
 > 진행 로그: [`fe-roadmap-progress`](https://github.com/seungyeub/fe-roadmap-progress) · 실습 코드: [`fe-roadmap-lab`](https://github.com/seungyeub/fe-roadmap-lab)
 
-🕒 **마지막 갱신:** 2025-11-13
+🕒 **마지막 갱신:** 2025-11-17
 
 ---
 
