@@ -1,6 +1,6 @@
 # 🧭 FE Roadmap Blueprint ![Last commit](https://img.shields.io/github/last-commit/seungyeub/fe-roadmap-blueprint?label=last%20updated)
 
-> 프론트엔드 학습을 위한 **커리큘럼·설계·레퍼런스** 저장소입니다.  
+> 프론트엔드 학습을 위한 **커리큘럼·설계·레퍼런스** 저장소입니다.
 > 진행 로그: [`fe-roadmap-progress`](https://github.com/seungyeub/fe-roadmap-progress) · 실습 코드: [`fe-roadmap-lab`](https://github.com/seungyeub/fe-roadmap-lab)
 
 🕒 **마지막 갱신:** 2025-11-17
@@ -8,13 +8,15 @@
 ---
 
 ## 📘 Repository Overview
-- **역할:** 학습의 ‘설계도’ 역할을 하는 **정적 지식 베이스**  
-- **구성 원칙:** 번호 기반(00~10) 상위 섹션, 내부는 주제별 마크다운  
+
+- **역할:** 학습의 ‘설계도’ 역할을 하는 **정적 지식 베이스**
+- **구성 원칙:** 번호 기반(00~10) 상위 섹션, 내부는 주제별 마크다운
 - **관계:** Progress(진행/로그) · Lab(실습)과 교차 링크
 
 ---
 
 ## 🧱 Main Sections
+
 - **00_Guides** — 로드맵 개요, 읽는 순서, 용어/스타일 가이드
 - **01_CS_Basics** — 네트워크, 브라우저 렌더링, HTTP/HTTPS, 보안, 스토리지
 - **02_JavaScript** — 실행 컨텍스트, 스코프/호이스팅, this/클로저, 프로토타입, 비동기, 모듈, 성능
@@ -30,6 +32,7 @@
 ---
 
 ## 📂 Folder Structure
+
 ```bash
 fe-roadmap-blueprint/
 ├── 00_Guides/
